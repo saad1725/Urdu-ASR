@@ -33,14 +33,4 @@ For training code open the
 urdu_asr.ipynb
 ```
 
-## Contributing
 
-Contributions to this project are welcome. If you have ideas for improvements or encounter any issues, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to adjust the sections and content as needed to better suit your project. Additionally, you might want to include more details on how to use the model, any limitations or known issues, and examples of expected inputs and outputs.
